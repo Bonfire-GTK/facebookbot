@@ -27,7 +27,7 @@
 clearInterval(timer);
                     addFriends(); // Restart the process
                   }
-                }, 1000); // Add friend each 4 seconds.
+                }, 4000); // Add friend each 4 seconds.
             }
 })();
 
